@@ -1,4 +1,4 @@
-# PlayByGPT
+# :trophy:PlayByGPT
 > Welcome to PlayByGPT, an interactive chat application powered by the OpenAI GPT-3.5 model. Ask me anything, and I'll provide you with accurate information just like a professional sports analyst!
 
 ## Introduction
